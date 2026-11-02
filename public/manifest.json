@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "TapNova Gaming Store",
+  "short_name": "TapNova",
+  "description": "TapNova — Play • Gear • Win. High-performance gaming and mobile esports accessories engineered for all Android phones.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#060813",
+  "theme_color": "#060813",
+  "orientation": "portrait-primary",
+  "categories": ["shopping", "games", "entertainment"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

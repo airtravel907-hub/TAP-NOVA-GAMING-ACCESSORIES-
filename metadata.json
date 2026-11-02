@@ -1,0 +1,8 @@
+{
+  "name": "Remix TapNova Gaming Store",
+  "description": "Premium cyberpunk-themed online shop offering high-quality gaming accessories with seamless mobile navigation and real-time inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
